@@ -1,16 +1,19 @@
-## Hi there 👋
+# About me.
+-------------------------------------------------------------------------
+### Hello, I'm Maria!
 
-<!--
-**zgr-mary/zgr-mary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Data Analyst** passionate about discovering insights through data. I'm just starting my journey into the world of analytics, and I love learning and experimenting with new tools and techniques.
 
-Here are some ideas to get you started:
+###
+- I’m currently learning **SQL**, and **Data Visualization**.
+- I'm exploring small projects that focus on:
+  - Cleaning and analyzing datasets
+  - Creating data visualizations
+  - Writing simple scripts to solve real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools and Skills I'm Learning
+- **Programming Languages**: Python
+- **Data Tools**: Excel, Google Sheets
+- **Visualization Tools**: Tableau, Power BI
+- **Databases**: SQL
+------------------------------------------------------------------------
