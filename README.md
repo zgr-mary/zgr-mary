@@ -1,5 +1,6 @@
 # About me.
--------------------------------------------------------------------------
+<hr style="border: 2px solid blue;" />
+
 ### Hello, I'm Maria!
 
 I'm an aspiring **Data Analyst** passionate about discovering insights through data. I'm just starting my journey into the world of analytics, and I love learning and experimenting with new tools and techniques.
@@ -16,4 +17,4 @@ I'm an aspiring **Data Analyst** passionate about discovering insights through d
 - **Data Tools**: Excel, Google Sheets
 - **Visualization Tools**: Tableau, Power BI
 - **Databases**: SQL
-------------------------------------------------------------------------
+<hr style="border: 2px solid blue;" />
