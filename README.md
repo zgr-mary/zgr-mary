@@ -1,5 +1,5 @@
 # About me.
-<hr style="border: 2px solid blue;" />
+<hr style="border: 2px solid red;" />
 
 ### Hello, I'm Maria!
 
@@ -17,4 +17,4 @@ I'm an aspiring **Data Analyst** passionate about discovering insights through d
 - **Data Tools**: Excel, Google Sheets
 - **Visualization Tools**: Tableau, Power BI
 - **Databases**: SQL
-<hr style="border: 2px solid blue;" />
+<hr style="border: 2px solid red;" />
